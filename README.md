@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Syed Reza Ali Abdi
+- **CCID:** syedreza
 
 ## References and Resources
 
